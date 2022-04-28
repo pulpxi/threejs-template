@@ -13,6 +13,7 @@ const sizes = {
 };
 //#endregion
 
+
 start();
 function start(){
     // Canvas
